@@ -1,0 +1,47 @@
+.content{
+  text-align: center
+}
+.infoTitle{
+  text-align: center;
+  font-size: 36rpx
+}
+.formView{
+  width: 90%;
+  border: 1px solid #666;
+  height: 60rpx;
+  margin: 20rpx auto;
+  display: flex;
+  align-items:center;
+}
+.formView input{
+  /* background: red; */
+  height: 100%;
+  display: flex;
+  text-align: left;
+  padding-left: 10rpx
+}
+.formView text{
+  display: flex;
+  margin-left: 20rpx;
+  line-height: 60rpx;
+  font-size: 30rpx
+}
+.formView text{
+  display: flex;
+  margin-left: 20rpx;
+  line-height: 60rpx
+}
+.getInfoBtn{
+  width: 200rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  border-radius: 16rpx;
+  font-size: 20rpx;
+  background: #333;
+  color: #fff;
+  display: flex
+}
+.input{
+  font-size: 24rpx;
+  color: #8b8686
+}

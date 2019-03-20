@@ -16,4 +16,8 @@
     <image class="iconPath" wx:for-index="idx" data-current="{{idx}}" src="{{currentTab == idx ? item.selectedIconPath : item.iconPath }}"></image>
   </view>
 </view>
+<view>
+ 
+
+</view>
 
